@@ -231,3 +231,11 @@ Tables are created automatically by Hibernate on first run (`ddl-auto: update`).
 - [ ] Integration tests with Testcontainers
 - [ ] Authentication & authorization
 - [ ] Externalize DB credentials to environment variables
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Mohamed Aziz Madhbouh.
